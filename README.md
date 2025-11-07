@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=cylinder)
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=Grow%20through%20every%20challenge)
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=500&section=header&text=Grow%20through%20every%20challenge)
