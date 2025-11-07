@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=speach&color=gradient&height=400&section=header&text=Grow%20through%20every%20challenge)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=400&section=header&text=Grow%20through%20every%20challenge)
